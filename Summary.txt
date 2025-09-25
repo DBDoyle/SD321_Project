@@ -1,1 +1,7 @@
 Where you should put the websitenames
+
+
+
+https://www.kaggle.com/datasets/matarrgaye/number-of-crimes-in-london-boroughs
+https://www.kaggle.com/datasets/rohitgrewal/london-housing-data
+https://www.kaggle.com/datasets/jarxrr/london-ward-wellbeing-scores
