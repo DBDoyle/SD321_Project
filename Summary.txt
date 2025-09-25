@@ -5,3 +5,22 @@ Where you should put the websitenames
 https://www.kaggle.com/datasets/matarrgaye/number-of-crimes-in-london-boroughs
 https://www.kaggle.com/datasets/rohitgrewal/london-housing-data
 https://www.kaggle.com/datasets/jarxrr/london-ward-wellbeing-scores
+
+Team number: 67
+Team name: England is my City
+Team members names: David Doyle, Kieran Kendall
+Co-leaders: David Doyle, Kieran Kendall
+
+Big Question: do places with lower housing prices and lower generel well being have higher crime?
+
+1. Find avg crime in buroughs, and what buroughs have more crime than avg
+2. Find avg well being in buroughs, and what buroughs are above avg
+3. Find avg house prices in buroughs, and what buroughs are above avg
+4. Find crossover between higher than avg crime and house prices
+5. Find crossover between higher than avg crime and wellbeing
+6. Find crossover between higher than avg well being and house prices
+7. Find crossover between higher than avg well being and crime
+8. Find crossover between higher than avg house prices and crime
+9. Find crossover between higher than avg house prices and well being
+10. Find crossover between higher than avg house prices, avg crime, well being
+
