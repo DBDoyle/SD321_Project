@@ -11,8 +11,8 @@ Team name: England is my City
 Team members names: David Doyle, Kieran Kendall
 Co-leaders: David Doyle, Kieran Kendall
 
-Big Question: do places with lower housing prices and lower generel well being have higher crime?
-
+Big Question: do places with lower housing prices and lower generel well being have higher crime in London?
+We have three datasets, one on well being, and one on crime, and one housing data all of them in London.
 1. Find avg crime in buroughs, and what buroughs have more crime than avg
 2. Find avg well being in buroughs, and what buroughs are above avg
 3. Find avg house prices in buroughs, and what buroughs are above avg
@@ -24,3 +24,7 @@ Big Question: do places with lower housing prices and lower generel well being h
 9. Find crossover between higher than avg house prices and well being
 10. Find crossover between higher than avg house prices, avg crime, well being
 
+Quick summary of tasks:
+David:Convert csv to sql using python, make sure the formatting is right, anaylze csv in R 
+Kieran:Do sql comparisons and python anaylsis of csv's
+Joint:draw conclusions and make posters 
