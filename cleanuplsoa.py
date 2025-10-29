@@ -1,0 +1,10 @@
+import pandas as pd
+df = pd.read_csv("/home/mids/m273234/sd321/project1/crime_by_lsoa.csv")
+print(len(df))
+print('\n')
+print(df.isnull().sum())
+df['month'] = df['month'].astype(str).str.zfill(2)
+df['year'] = df['year'].astype(str)
+df['Date'] = df['month'].str.cat(df['year'],sep='/')
+df.drop(columns=['month','year'],inplace=True)
+print(df.head())
