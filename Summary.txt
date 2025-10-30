@@ -28,3 +28,12 @@ Quick summary of tasks:
 David:Convert csv to sql using python, make sure the formatting is right, anaylze csv in R 
 Kieran:Do sql comparisons and python anaylsis of csv's
 Joint:draw conclusions and make posters 
+
+We try to upload get error becuas to big
+Then we tried to cut it down to years of our other data set still to big
+Then we tried to cut it down to one year still to big
+then we found a way to check how much our db can take in bytes, dropped three highest tables
+Then we dropped unessacry rows,
+Then it was still too big, so we randomly cut half the data
+then we had to fix col names agin
+and finally, at last, it uploaded
