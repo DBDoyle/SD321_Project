@@ -1,0 +1,12 @@
+
+The functional dependencies for each table
+date,area->avg,code,housessold
+New_Ward_Code, Year->borough,life_expectancy, etc.
+Ward_code,Major_Category,Date->Value
+
+Whether each table is in BCNF or not
+Yes
+
+
+If applicable, decomposition of tables in BCNF
+N/A
