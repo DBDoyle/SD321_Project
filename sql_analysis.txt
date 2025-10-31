@@ -1,0 +1,7 @@
+What neighborhoods had the highest number of crimes for the year for each category of crime?
+
+SELECT lsoa_code,Major_Category,COUNT(Value) FROM Crime GROUP BY lsoa_code,Major_Category ORDER BY COUNT(Value) ASC;
+^^^ this code will give counts for the year for each ward code and each crime, just deciding how to order results, may not work as though
+
+SELECT Major_Category,SUM(Value) FROM Crime GROUP BY Major_Category;
+^^^^ gives total number of crimes by each category (no sexual offences in 2013? -- interesting)
